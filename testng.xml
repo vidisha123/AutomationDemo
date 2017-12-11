@@ -1,0 +1,17 @@
+<suite name="Suite">
+
+  <test name="TestGC">
+  <parameter name="browser" value="chrome"/>
+  <packages>
+  <package name="script">
+  </packages>
+  </test>
+  
+   <test name="TestGC">
+  <parameter name="browser" value="chrome"/>
+  <packages>
+  <package name="script">
+  </packages>
+  </test>
+  
+</suite> 
